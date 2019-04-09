@@ -66,3 +66,5 @@ clf_pre = clf.predict(x_test)
 out_data = pd.concat([test['PassengerId'], pd.DataFrame(clf_pre)], axis=1, join='inner')
 out_data.columns = ['PassengerId', 'Survived']
 out_data.to_csv('submission.csv', index=False, header=True)
+
+#git test用変更
