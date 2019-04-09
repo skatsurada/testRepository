@@ -74,3 +74,5 @@ out_data.to_csv('submission.csv', index=False, header=True)
 #branch1　開発中
 #branch1 開発中2回目変更
 #branch1 開発中3回目変更
+
+#local_branch1で変更　マスターをオリジンにプッシュした後変更1回目
