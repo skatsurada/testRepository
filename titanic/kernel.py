@@ -71,9 +71,4 @@ out_data.columns = ['PassengerId', 'Survived']
 out_data.to_csv('submission.csv', index=False, header=True)
 
 #git test用変更
-#branch1　開発中
-#branch1 開発中2回目変更
-#branch1 開発中3回目変更
-
-#local_branch1で変更　マスターをオリジンにプッシュした後変更1回目
-#local_branch1で変更　マスターをオリジンにプッシュした後変更2回目
+#buranch での変更を一回削除
