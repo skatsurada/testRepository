@@ -69,3 +69,4 @@ out_data.to_csv('submission.csv', index=False, header=True)
 
 #git test用変更
 #branch1　開発中
+#branch1 開発中2回目変更
