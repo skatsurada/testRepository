@@ -68,3 +68,4 @@ out_data.columns = ['PassengerId', 'Survived']
 out_data.to_csv('submission.csv', index=False, header=True)
 
 #git test用変更
+#branch1　開発中
